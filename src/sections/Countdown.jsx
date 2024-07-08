@@ -2,7 +2,7 @@ import "./styles/Countdown.css";
 import { useEffect } from "react";
 
 const Countdown = () => {
-  const TIMESTAMP_END = 1720882800;
+  const TIMESTAMP_END = 1720872000000;
 
   const SECOND = 1000;
   const MINUTE = SECOND * 60;
